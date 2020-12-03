@@ -3,103 +3,103 @@
   "image_url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2018/4/11/w600X390/samantha.JPG",
   "data": [
     {
-      "sec": "1a",
-      "orangeCircle": "10",
-      "blueCircle": "10",
-      "day": 21,
-	  "min": 10,
-	  "total": 7,
-	  "b": 78,
-	  "a": 12,
-	  "part": "Part 1"
+        "sec": "1a",
+        "orangeCircle": "10",
+        "blueCircle": "10",
+        "day": 21,
+        "min": 10,
+        "total": 7,
+        "b": 78,
+        "a": 12,
+        "part": "Part 1"
     },
     {
-      "sec": "1b",
-      "orangeCircle": "3",
-      "blueCircle": "10",
-      "day": 21,
-	  "min": 10,
-	  "total": 7,
-	  "b": 78,
-	  "a": 12,
-	  "part": "Part 2"
+        "sec": "1b",
+        "orangeCircle": "3",
+        "blueCircle": "10",
+        "day": 21,
+        "min": 10,
+        "total": 7,
+        "b": 78,
+        "a": 12,
+        "part": "Part 2"
     },
     {
-      "sec": "1b",
-      "orangeCircle": "3",
-      "blueCircle": "10",
-      "day": 21,
-	  "min": 10,
-	  "total": 7,
-	  "b": 78,
-	  "a": 12,
-	  "part": "Part 3"
+        "sec": "1b",
+        "orangeCircle": "3",
+        "blueCircle": "10",
+        "day": 21,
+        "min": 10,
+        "total": 7,
+        "b": 78,
+        "a": 12,
+        "part": "Part 3"
     },
-	{
-      "sec": "1b",
-      "orangeCircle": "3",
-      "blueCircle": "10",
-      "day": 21,
-	  "min": 10,
-	  "total": 7,
-	  "b": 78,
-	  "a": 12,
-	  "part": "Part 4"
+    {
+        "sec": "1b",
+        "orangeCircle": "3",
+        "blueCircle": "10",
+        "day": 21,
+        "min": 10,
+        "total": 7,
+        "b": 78,
+        "a": 12,
+        "part": "Part 4"
     },
-	{
-      "sec": "1b",
-      "orangeCircle": "3",
-      "blueCircle": "10",
-      "day": 21,
-	  "min": 10,
-	  "total": 7,
-	  "b": 78,
-	  "a": 12,
-	  "part": "Part 5"
+    {
+        "sec": "1b",
+        "orangeCircle": "3",
+        "blueCircle": "10",
+        "day": 21,
+        "min": 10,
+        "total": 7,
+        "b": 78,
+        "a": 12,
+        "part": "Part 5"
     },
-	{
-      "sec": "1b",
-      "orangeCircle": "3",
-      "blueCircle": "10",
-      "day": 21,
-	  "min": 10,
-	  "total": 7,
-	  "b": 78,
-	  "a": 12,
-	  "part": "Part 6"
+    {
+        "sec": "1b",
+        "orangeCircle": "3",
+        "blueCircle": "10",
+        "day": 21,
+        "min": 10,
+        "total": 7,
+        "b": 78,
+        "a": 12,
+        "part": "Part 6"
     },
-	{
-      "sec": "1b",
-      "orangeCircle": "4",
-      "blueCircle": "10",
-      "day": 21,
-	  "min": 10,
-	  "total": 7,
-	  "b": 78,
-	  "a": 12,
-	  "part": "Part 7"
+    {
+        "sec": "1b",
+        "orangeCircle": "4",
+        "blueCircle": "10",
+        "day": 21,
+        "min": 10,
+        "total": 7,
+        "b": 78,
+        "a": 12,
+        "part": "Part 7"
     },
-	{
-      "sec": "1b",
-      "orangeCircle": "5",
-      "blueCircle": "10",
-      "day": 21,
-	  "min": 10,
-	  "total": 7,
-	  "b": 78,
-	  "a": 12,
-	  "part": "Part 8"
+    {
+        "sec": "1b",
+        "orangeCircle": "5",
+        "blueCircle": "10",
+        "day": 21,
+        "min": 10,
+        "total": 7,
+        "b": 78,
+        "a": 12,
+        "part": "Part 8"
     },
-	{
-      "sec": "1c",
-      "orangeCircle": "10",
-      "blueCircle": "10",
-      "day": 21,
-	  "min": 10,
-	  "total": 7,
-	  "b": 78,
-	  "a": 13,
-	  "part": "Part 9"
+    {
+        "sec": "1c",
+        "orangeCircle": "10",
+        "blueCircle": "10",
+        "day": 21,
+        "min": 10,
+        "total": 7,
+        "b": 78,
+        "a": 13,
+        "part": "Part 9"
     }
   ]
 }
