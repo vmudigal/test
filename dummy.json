@@ -11,6 +11,7 @@
         "total": 7,
         "b": 78,
         "a": 12,
+        "orangeCircleUser": [{"userId": "vmudigal"}, {"userId": "johnny"}],
         "part": "Part 1"
     },
     {
@@ -22,6 +23,7 @@
         "total": 7,
         "b": 78,
         "a": 12,
+        "orangeCircleUser": [{"userId": "vmudigal"}, {"userId": "johnny"}],
         "part": "Part 2"
     },
     {
